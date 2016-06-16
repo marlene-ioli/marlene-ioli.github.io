@@ -1,0 +1,30 @@
+body{
+	color: #343336;
+	font-family: "Estrangelo Edessa";
+	text-align: center;
+}
+
+#slogan{
+	font-style: italic;
+	font-weight: normal;
+	color: #007A5F;
+}
+
+#meditation{
+	background:"slogan"
+}
+
+#intro{
+	font-style: 30px;
+	font-weight: bold;
+}
+
+#products{
+	font-style: 30px;
+	font-weight: bold;
+}
+
+#contact{
+	font-style: 22px;
+
+}
