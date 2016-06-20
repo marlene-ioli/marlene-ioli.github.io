@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+
+body{
+	color: #343336;
+	font-family: "Estrangelo Edessa";
+	text-align: center;
+}
+
+#slogan{
+	font-family: 'Lobster', cursive;
+	font-weight: normal;
+	color: #007A5F;
+}
+
+#intro{
+	font-family: 'Comfortaa', cursive;
+	font-style: 30px;
+	font-weight: bold;
+}
+
+#products{
+	font-family: 'Comfortaa', cursive;
+	font-style: 30px;
+	font-weight: bold;
+}
+
+#contact{
+	font-family: 'Comfortaa', cursive;
+	font-style: 22px;
+
+}
