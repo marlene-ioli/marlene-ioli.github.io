@@ -34,20 +34,20 @@ nav {
 	font-weight: bold;
 }
 
-#product-section-one{
-	background-color:#FFE2B8;
+#two_column {
+    background-color: #FFB7CF;
     border: 1px black solid;
     padding: 20px;
 }
 
-#product-section-two{
-	background-color:#FFE2B8;
+#left {
+    background-color: #E582A2;
     border: 1px black solid;
     padding: 20px;
 }
 
-#product-section-three{
-	background-color:#FFE2B8;
+#right {
+    background-color: #E55B88;
     border: 1px black solid;
     padding: 20px;
 }

@@ -1,0 +1,147 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+
+
+body{
+	color: #272B22;
+	font-style: 25px;
+
+}
+
+#logo{
+	align: left;
+	width: 10%;
+	float: left;
+}
+
+
+header {
+background-color:white;
+font-family: "Estrangelo Edessa", bold;
+padding: 20px;
+}
+
+nav {
+	background-color:white;
+	font-family: "Estrangelo Edessa", bold;
+	font-style: 30px;
+    padding: 15px;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+a{
+	background-color:white; 
+	font-family: "Estrangelo Edessa", bold;
+	color: #120F0E;
+	text-decoration:none;
+	display: block;
+	float: left;
+	padding: 20px;
+}
+
+a:hover{
+	background-color: #FFDCC5;
+}
+
+#three_column {
+    background-color: white;
+    padding: 15px;
+    font-family: "Comfortaa"
+}
+
+.title {
+	text-align: left;
+	font-family: "Estrangelo Edessa", bold;
+	color: #282621;
+	font-size: 22px
+	
+}
+
+#left {
+    background-color: white;
+    text-align: left;
+    padding: 15px;
+    float: left;
+    width: 30%;
+    font-size: 15px
+}
+
+#center {
+    background-color: white;
+    text-align: left;
+    padding: 15px;
+    float: left;
+    width: 30%;
+    font-size: 15px
+}
+
+#right {
+    background-color: white;
+    text-align: left;
+    padding: 15px;
+    float: left;   
+    width: 30%;
+    font-size: 15px
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.image-product{
+	height: 200px;
+}
+
+footer {
+    background-color: white;
+    padding: 15px;
+}
+
+.footer-title {
+font-family: "Estrangelo Edessa", bold;
+font-size: 20px; 	
+}
+
+#footer-left {
+    background-color: #FFF0DA;
+    font-family: "Comfortaa";
+    text-align: left;
+    padding: 15px;
+    float: left;
+    width: 30%;
+    font-size: 15px
+
+}
+
+#footer-center {
+    background-color:#FFF0DA;
+    font-family: "Comfortaa";
+    text-align: left;
+    padding: 15px;
+    float: left;
+    width: 30%;
+    font-size: 15px
+}
+
+#footer-right {
+    background-color: #FFF0DA;
+    font-family: "Comfortaa";
+    text-align: left;
+    padding: 15px;
+    float: left;   
+    width: 30%;
+    font-size: 15px
+}
