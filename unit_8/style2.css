@@ -1,0 +1,189 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+
+
+body{
+	color: #272B22;
+	font-style: 1.5em;
+
+}
+
+#logo{
+	align: left;
+	width: 10%;
+	float: left;
+}
+
+#meditation {
+    width: 100%;
+
+}
+
+header {
+background-color:white;
+font-family: "Estrangelo Edessa", bold;
+padding: 2%;
+}
+
+nav {
+	background-color:white;
+	font-family: "Estrangelo Edessa", bold;
+	font-style: 2em;
+    padding: 1.5%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+a{
+	background-color:white; 
+	font-family: "Estrangelo Edessa", bold;
+	color: #120F0E;
+	text-decoration:none;
+	display: block;
+	float: left;
+	padding: 2%;
+}
+
+a:hover{
+	background-color: #FFDCC5;
+}
+
+#three_column {
+    background-color: white;
+    padding: 1.5%;
+    font-family: "Comfortaa"
+}
+
+.title {
+	text-align: center;
+	font-family: "Estrangelo Edessa", bold;
+	color: #282621;
+	font-size: 1.2em;
+	
+}
+
+#left {
+    background-color: white;
+    text-align: left;
+    padding: 1.5%;
+    float: left;
+    width: 30%;
+    font-size: 1em;
+}
+
+#center {
+    background-color: white;
+    text-align: left;
+    padding: 1.5%;
+    float: left;
+    width: 30%;
+    font-size: 1em;
+}
+
+#right {
+    background-color: white;
+    text-align: left;
+    padding: 1.5%;
+    float: left;   
+    width: 30%;
+    font-size: 1em;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.image-product{
+	width: 80%;
+}
+
+footer {
+    background-color: white;
+    padding: 1.5%;
+}
+
+.footer-title {
+font-family: "Estrangelo Edessa", bold;
+font-size: 1.2em; 	
+text-align: center;
+}
+
+#footer-left {
+    background-color: #FFF0DA;
+    font-family: "Comfortaa";
+    text-align: left;
+    padding: 1.5%;
+    float: left;
+    width: 30%;
+    font-size: 1em;
+
+}
+
+#footer-center {
+    background-color:#FFF0DA;
+    font-family: "Comfortaa";
+    text-align: left;
+    padding: 1.5%;
+    float: left;
+    width: 30%;
+    font-size: 1em;
+}
+
+#footer-right {
+    background-color: #FFF0DA;
+    font-family: "Comfortaa";
+    text-align: left;
+    padding: 1.5%;
+    float: left;   
+    width: 30%;
+    font-size: 1em;
+}
+
+@media only screen and (max-width: 770px) {
+  nav {
+    float: none;
+  } 
+  nav a {
+      margin: 0 1.6em .75em 0;
+      display: block;
+      text-align: center;
+      width: 100%;
+  }
+
+#left, #center, #right {
+    width: 100%;
+    padding: .6em;
+    float: none;
+    display: block;
+    text-align: center;
+  }
+
+#footer-left, #footer-right, #footer-center {
+    width: 100%;
+    padding: .6em;
+    float: none;
+    display: block;
+    text-align: center;
+}
+
+.footer-title {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+}
+
+}
